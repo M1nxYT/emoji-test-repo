@@ -1,18 +1,14 @@
 {
-  name: "test-repo",
-  version: "0.0.1",
-  branch: "main",
-  packs: [
-    {
-      name: "Platforms",
-      version: "0.0.1",
-      files: [
-        {
-          name: "Youtube",
-          author: "MinxterYT",
-          path: "/Platforms/youtube.png"
-        } 
-      ]
-    }
-  ]
+	"name": "test-repo",
+	"version": "0.0.1",
+	"branch": "main",
+	"packs": [{
+		"name": "Platforms",
+		"version": "0.0.1",
+		"files": [{
+			"name": "Youtube",
+			"author": "MinxterYT",
+			"path": "/Platforms/youtube.png"
+		}]
+	}]
 }
