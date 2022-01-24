@@ -1,14 +1,40 @@
 {
-	"name": "test-repo",
-	"version": "0.0.1",
+	"name": "Test Repo",
+	"version": "0.0.2",
 	"branch": "main",
 	"packs": [{
 		"name": "Platforms",
-		"version": "0.0.1",
+		"version": "1.0.0",
 		"files": [{
-			"name": "Youtube",
-			"author": "MinxterYT",
-			"path": "/Platforms/youtube.png"
-		}]
+				"name": "Amazon",
+				"author": "MinxterYT",
+				"path": "/Platforms/amazon.png"
+			},
+			{
+				"name": "Apple Music",
+				"author": "MinxterYT",
+				"path": "/Platforms/apple music.png"
+			},
+			{
+				"name": "Soundcloud",
+				"author": "MinxterYT",
+				"path": "/Platforms/soundcloud.png"
+			},
+			{
+				"name": "Spotify",
+				"author": "MinxterYT",
+				"path": "/Platforms/spoti.png"
+			},
+			{
+				"name": "Tidal",
+				"author": "MinxterYT",
+				"path": "/Platforms/tidal.png"
+			},
+			{
+				"name": "Youtube",
+				"author": "MinxterYT",
+				"path": "/Platforms/youtube.png"
+			}
+		]
 	}]
 }
